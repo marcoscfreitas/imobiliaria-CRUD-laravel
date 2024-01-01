@@ -1,3 +1,38 @@
+#CRUD de Imobiliaria com Laravel
+
+Prezados, 
+
+Devemos criar um BD com a seguinte tabela: 
+
+* codigo
+
+* nome da imobiliaria
+
+* endereço
+
+* preco
+
+* venda / aluguel  ( campo int? voces escolhem...)
+
+desenvolver um CRUD simples com uma tela principal : 
+
+Inserir dados de uma casa:
+
+Mostrar dados da casa
+
+com botoes de editar e deletar.
+
+Perguntas: 
+
+(i) - Qual é a casa mais cara
+
+(ii) - Quais casas estao para aluguel ou compra
+
+iii) criar um botao para classificar ordem crescente de preco OU ordem crescente do endereco.
+
+1 ponto a mais : Procurar por pedaco de string o endereco da casa  ou imobiliaria. 
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
